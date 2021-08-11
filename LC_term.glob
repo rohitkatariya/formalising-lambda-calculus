@@ -1,0 +1,54 @@
+DIGEST 3ca95aabccbf6f45765f08b309bd2879
+FA1.LC_term
+R24:32 LF.Induction <> <> lib
+R58:64 LF.Tactics <> <> lib
+ind 78:84 <> lc_term
+constr 99:104 <> lc_var
+constr 119:124 <> lc_abs
+constr 142:147 <> lc_app
+R109:111 Coq.Init.Datatypes <> nat ind
+R113:113 A1.LC_term <> lc_term ind
+R129:135 A1.LC_term <> lc_term ind
+R137:137 A1.LC_term <> lc_term ind
+R158:164 A1.LC_term <> lc_term ind
+R166:166 A1.LC_term <> lc_term ind
+def 178:181 <> size
+R188:194 A1.LC_term <> lc_term ind
+R199:201 Coq.Init.Datatypes <> nat ind
+R214:214 A1.LC_term <> p var
+R225:230 A1.LC_term <> lc_var constr
+R243:248 A1.LC_term <> lc_abs constr
+R256:258 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R259:262 A1.LC_term <> size def
+R270:275 A1.LC_term <> lc_app constr
+R286:286 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R294:298 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R306:306 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R287:290 A1.LC_term <> size def
+R299:302 A1.LC_term <> size def
+def 325:326 <> ht
+R334:340 A1.LC_term <> lc_term ind
+R345:347 Coq.Init.Datatypes <> nat ind
+R360:360 A1.LC_term <> e var
+R371:376 A1.LC_term <> lc_var constr
+R389:394 A1.LC_term <> lc_abs constr
+R403:406 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R412:412 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R407:408 A1.LC_term <> ht def
+R418:423 A1.LC_term <> lc_app constr
+R435:439 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R459:460 Coq.Init.Peano <> ::nat_scope:x_'+'_x not
+R440:442 Coq.Init.Peano <> max syndef
+R453:454 A1.LC_term <> ht def
+R445:446 A1.LC_term <> ht def
+R476:481 A1.LC_term <> lc_abs constr
+R484:489 A1.LC_term <> lc_var constr
+R501:506 A1.LC_term <> lc_var constr
+R536:541 A1.LC_term <> lc_app constr
+not 522:522 <> :::x_'-->'_x
+R707:711 A1.LC_term <> :::x_'-->'_x not
+R699:704 A1.LC_term <> lc_var constr
+R712:717 A1.LC_term <> lc_var constr
+R730:735 A1.LC_term <> lc_app constr
+R749:754 A1.LC_term <> lc_var constr
+R738:743 A1.LC_term <> lc_var constr
